@@ -1,0 +1,1 @@
+#Aqui se resolvera el ejercicio propuesto en la diapositiva seccion variables
